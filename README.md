@@ -13,36 +13,36 @@ Your objective is to begin using variables to store and pass values throughout y
 
 Steps are to be completed in the `app.js` file.
 
-1. Declare a variable named `firstName` using the `const` keyword
-2. Declare a variable named `lastName` using the `let` keyword
-3. Declare a variable named `age` using the `var` keyword
+1. Declare a variable named `firstName` using the `const` keyword --Done
+2. Declare a variable named `lastName` using the `let` keyword --Done
+3. Declare a variable named `age` using the `var` keyword --Done
 
 ## Exercise 2: Assigning Values to Variables
 
 Steps are to be completed in the `app.js` file.
 
-1. Assign your first name as the **string** value to the variable `firstName`
-2. Assign your last name as the **string** value to the variable `lastName`
-3. Assign your age as the **number** value to the variable `age`
+1. Assign your first name as the **string** value to the variable `firstName` --Done    
+2. Assign your last name as the **string** value to the variable `lastName` --Done
+3. Assign your age as the **number** value to the variable `age` --Done
 
 ## Exercise 3: Declaring and Assigning Values to Variables
 
 Steps are to be completed in the `app.js` file.
 
-1. Declare a variable named `language` using the `let` keyword, and assign it the value `"JavaScript"` (string)
-2. Declare a variable named `createdYear` using the `let` keyword, and assign it the value `1995` (number)
-3. Declare a variable named `isCaseSensitive` using the `let` keyword, and assign it the value `true` (boolean)
+1. Declare a variable named `language` using the `let` keyword, and assign it the value `"JavaScript"` (string) --Done
+2. Declare a variable named `createdYear` using the `let` keyword, and assign it the value `1995` (number) --Done
+3. Declare a variable named `isCaseSensitive` using the `let` keyword, and assign it the value `true` (boolean) --Done
 
 ## Exercise 4: Declaring and Assigning Values to Variables x2
 
 Steps are to be completed in the `app.js` file.
 
-1. Declare a variable named `price` using the `let` keyword, and assign it the value `19.99` (number)
-2. Declare a variable named `isOnSale` using the `let` keyword, and assign it the value `false` (boolean)
-3. Declare a variable named `salePercentage` using the `let` keyword, and assign it the value `15` (number)
-4. Declare a variable named `stock` using the `let` keyword, and assign it the value `0` (number)
-5. Declare a variable named `inStock` using the `let` keyword, and assign it the value `false` (boolean)
-6. Declare a variable named `selectedSize` using the `let` keyword, and assign it the value `"M"` (string)
+1. Declare a variable named `price` using the `let` keyword, and assign it the value `19.99` (number) --Done
+2. Declare a variable named `isOnSale` using the `let` keyword, and assign it the value `false` (boolean) --Done
+3. Declare a variable named `salePercentage` using the `let` keyword, and assign it the value `15` (number) --Done
+4. Declare a variable named `stock` using the `let` keyword, and assign it the value `0` (number) --Done
+5. Declare a variable named `inStock` using the `let` keyword, and assign it the value `false` (boolean) --Done
+6. Declare a variable named `selectedSize` using the `let` keyword, and assign it the value `"M"` (string) --Done
 
 ## Exercise 5: Declaring and Assigning Values to Variables x3
 
